@@ -33,16 +33,12 @@ Mirror Wall App is a dynamic Flutter application designed to provide users with 
 OUTPUT :
 
 
-
-![IMG-20241209-WA0004](https://github.com/user-attachments/assets/5d5a46d5-792a-4ea4-ba50-f7a5afd25d7d)
-![IMG-20241209-WA0011](https://github.com/user-attachments/assets/04504fab-856d-4dbe-a971-4ea91f393a49)
-![IMG-20241209-WA0010](https://github.com/user-attachments/assets/5cb1c07f-a6d9-486f-ab6b-d2dec8acfd58)
-![IMG-20241209-WA0009](https://github.com/user-attachments/assets/f7857625-c0d1-4a64-8afe-9a3bb13347af)
-![IMG-20241209-WA0008](https://github.com/user-attachments/assets/ad91717d-d9b9-4c0c-a96a-90caa8145df4)
-![IMG-20241209-WA0007](https://github.com/user-attachments/assets/5e11c031-c7fb-48b4-9a07-f20d4f28cfa0)
-![IMG-20241209-WA0006](https://github.com/user-attachments/assets/da6f8ef3-1a21-4dbe-a290-94af71d00201)
-![IMG-20241209-WA0005](https://github.com/user-attachments/assets/f8a03afb-7919-4ab3-9175-a1b71eb40f76)
-
-
-
+<img src="https://github.com/user-attachments/assets/57b2e9dd-0204-47bb-8fb5-14c155dc116f" width="200">
+<img src="https://github.com/user-attachments/assets/6a6317b2-b130-46e8-999d-5b94ad511f66" width="200">
+<img src="https://github.com/user-attachments/assets/a98ea598-37f3-48fe-929b-39ff2ec7f3c1" width="200">
+<img src="https://github.com/user-attachments/assets/eead3861-20e4-4645-8f7d-0a1b68532133" width="200">
+<img src="https://github.com/user-attachments/assets/4a24ea60-1cf0-4e2b-8a06-943140619e92" width="200">
+<img src="https://github.com/user-attachments/assets/3af40d76-44a9-4b39-8657-726f9b7bdf06" width="200">
+<img src="https://github.com/user-attachments/assets/fb66e930-15ad-4a4d-b16a-ea8084c604e7" width="200">
+<img src="https://github.com/user-attachments/assets/07d79ba3-c800-4dee-acc0-3675aadcaf1d" width="200">
 
